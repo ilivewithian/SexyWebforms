@@ -1,0 +1,6 @@
+SexyAdapters/bin/
+SexyAdapters/obj/
+SexyWebforms/bin/
+SexyWebforms/obj/
+*.suo
+*.user
